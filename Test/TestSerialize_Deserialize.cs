@@ -54,7 +54,7 @@ namespace Test
             Console.WriteLine($"Newtonsoft take Time {stopwatch2.Elapsed.TotalMilliseconds} Milliseconds ");
 
             #endregion
-            Console.ReadKey();
+            Console.Read();
         }
 
     }

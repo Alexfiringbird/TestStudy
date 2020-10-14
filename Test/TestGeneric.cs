@@ -43,7 +43,7 @@ namespace Test
                 Console.WriteLine("MyIntGeneric:"+myIntGeneric.GetItem(c));
                 Console.WriteLine("MyCharGeneric:"+myCharGeneric.GetItem(c));
             }
-            Console.ReadKey();
+            Console.Read();
 
 
         }
