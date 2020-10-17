@@ -28,7 +28,9 @@ namespace Test
             //TestConvert Tec = new TestConvert();
             #endregion
 
-            TestSerialize_Deserialize Tec = new TestSerialize_Deserialize();
+            //TestSerialize_Deserialize Tec = new TestSerialize_Deserialize();
+
+            TestAutofac Tec = new TestAutofac();
             Tec.Run();
         }
     }
